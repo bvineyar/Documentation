@@ -22,27 +22,27 @@ The content will include information for:
 #### Power BI Licenses
 #### Project Goals
 
-Analyze asset data quality for all Software and Hardware assets in ServiceNow, including capital assets
-Identify relevant data sources and repeatable processes to mine for data exceptions, compliance, and trends
-Present trends, issues, opportunities, and challenges using data visualization techniques
-Collaborate with technical teams, business analysts and process owners to communicate findings and identify remediation plans
-Design and publish reports – including compliance, KPI and trend reports
-Contribute to continuous improvement efforts related to data or process
-Contribute to IT asset management improvements and automation, particularly around inventory and asset management
-Contribute to a growing ITAM program by identifying gaps and influencing ITAM Governance standards
+- Analyze asset data quality for all Software and Hardware assets in ServiceNow, including capital assets
+- Identify relevant data sources and repeatable processes to mine for data exceptions, compliance, and trends
+- Present trends, issues, opportunities, and challenges using data visualization techniques
+- Collaborate with technical teams, business analysts and process owners to communicate findings and identify remediation plans
+- Design and publish reports – including compliance, KPI and trend reports
+- Contribute to continuous improvement efforts related to data or process
+- Contribute to IT asset management improvements and automation, particularly around inventory and asset management
+- Contribute to a growing ITAM program by identifying gaps and influencing ITAM Governance standards
 
 #### Define KPI
 [https://www.telm.ai/blog/data-quality-key-performance-indicators/](https://docs.servicenow.com/bundle/xanadu-servicenow-platform/page/product/configuration-management/reference/r_CMDBHealthMetrics.html)
-Correctness
-Completeness
-Compliance
+- Correctness
+- Completeness
+- Compliance
 
 
-Uniqueness
-Freshness
-Validity
-Accuracy
-Consistency
+- Uniqueness
+- Freshness
+- Validity
+- Accuracy
+- Consistency
 
 
 #### Connecting to Data Sources
